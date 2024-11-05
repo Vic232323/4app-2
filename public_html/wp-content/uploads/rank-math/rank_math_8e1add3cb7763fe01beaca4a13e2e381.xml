@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//4app.tech/main-sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>https://4app.tech/post-sitemap.xml</loc>
+		<lastmod>2024-10-30T22:06:25+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://4app.tech/page-sitemap.xml</loc>
+		<lastmod>2024-10-30T02:01:20+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://4app.tech/category-sitemap.xml</loc>
+		<lastmod>2024-10-30T22:06:25+00:00</lastmod>
+	</sitemap>
+</sitemapindex>
